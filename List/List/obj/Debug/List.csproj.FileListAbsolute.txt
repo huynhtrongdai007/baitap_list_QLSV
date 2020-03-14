@@ -1,0 +1,6 @@
+E:\CTDL\conlection\List\List\bin\Debug\List.exe.config
+E:\CTDL\conlection\List\List\bin\Debug\List.exe
+E:\CTDL\conlection\List\List\bin\Debug\List.pdb
+E:\CTDL\conlection\List\List\obj\Debug\List.csprojResolveAssemblyReference.cache
+E:\CTDL\conlection\List\List\obj\Debug\List.exe
+E:\CTDL\conlection\List\List\obj\Debug\List.pdb
